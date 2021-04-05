@@ -4,7 +4,11 @@ function App() {
   return (
     //BEM
     <div className="app">
-      <h1>Hello</h1>
+      <h1>Lets Build a facebook clone</h1>
+      {/*Header */}
+      {/*App body */}
+      {/*Feed */}
+      {/*Widgets */}
     </div>
   );
 }
